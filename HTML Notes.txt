@@ -1,0 +1,73 @@
+<h1> </h1> - Heading Tag
+<p> </p> - Paragraph Tag
+<a> </a> - Anchor Tag
+<a href=" "> - href is attribute and link is attribute value
+<img> - Image Tag
+<img src=" "> - src definition is source file
+<img width=" "> - width definition is change the size is image
+<img alt=" "> - alt definition is alternate option is image
+<br> - Break Tag
+<center> </center> - Center Tag
+<ol> </ol> - Order List
+<ul> </ul> - Unorder List
+<li> </li> - List line
+<iframe> </iframe> - vera website ahh namma website ku kondu varathu
+<iframe src=" "> - Source give to link
+<hr> - Harizondal line
+<head> </head>
+<body> </body>
+<title> </title>
+<link> - title image
+<link rel=" "> - rel is relation attribute
+<!DOCTYPE html> - html version
+<table> </table> - To create the table
+<tr> </tr> - Table Row
+<td> </td> - Table Column
+<table border=" "> - Border is attribute
+<form> </form> - create the form type
+<input> - input box.
+<input type=" "> - type is attribute
+<input placeholder=" "> - Placeholder is attribute to sentence provide in input box
+<select> </select> - Select the option tag
+<option> </option> - To provide the option tag
+
+<h1 style="color: red;background-color: aqua;">Welcome</h1>
+Style - Style is attribute.
+color - Change the font color.
+background-color - Change the background color
+<div> - Division element
+class - Class is a attribute
+class="one" - one is a value
+id - ID is a attribute
+id="one" - one is a value, using id is not repeated values
+padding
+margin
+border-color: red;
+border-width: 5px;
+border-style: solid; 
+text-align: center; - CSS  the text alignment change this command
+<span></span> - Span tag
+display: block; - this is take in entire line
+display: inline; - this is take in correct size
+display: inline-block; - this is manually provided in height and width
+display: none; - Element is disappear 
+<nav> </nav> - Navbar is container
+hover tag - color changing
+cursor: pointer - Cursor change the style
+position - static; position is the aliment
+static - static is a default position
+position: relative; - relative is a move the position
+left: 50px;
+z-index - 
+position: fixed; - Position fixed in one element
+display: flex; - Element is changed in row type.
+flex-direction: row; - To provide the direction
+flex-wrap: nowrap; - To provide the flex in next line, no wrap is default
+flex-wrap: wrap; - To go the next line
+justify-content: center;
+justify-content: flex-start;
+justify-content: flex-end;
+justify-content: space-between;
+align-items: center;
+flex-grow: 1;
+flex-basic: 25%; - window size is 100%, split in size.

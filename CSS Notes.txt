@@ -1,0 +1,6 @@
+<h1 style="color: red;background-color: aqua;">Welcome</h1>
+Style - Style is attribute.
+color - Change the font color.
+background-color - Change the background color
+<div> - Division element
+
