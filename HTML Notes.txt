@@ -71,3 +71,9 @@ justify-content: space-between;
 align-items: center;
 flex-grow: 1;
 flex-basic: 25%; - window size is 100%, split in size.
+@media print{}
+@media print and (orientation:landscape){}
+@media screen and (max-width:600px){}
+@media screen and (min-width:600px){}
+float: left;
+float: none;

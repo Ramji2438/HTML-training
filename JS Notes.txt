@@ -1,0 +1,14 @@
+Variables: Variables are containers for storing information or data.
+
+var a=10 ----> Var is variable keyword, a is variable name
+console.log(a) ----> this is print statement
+
+JavaScript variables can be declared in 3 ways
+
+1 - Using var ---> var is global scope
+2 - Using let ---> let is local scope
+3 - Using const ---> constant value
+
+JS keywords:
+
+var, let, const, if, switch, for, function, return, try.
